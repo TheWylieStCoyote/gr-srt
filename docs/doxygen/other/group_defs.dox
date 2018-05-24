@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio SRT C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the SRT GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+
